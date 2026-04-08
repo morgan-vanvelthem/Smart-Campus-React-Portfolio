@@ -10,4 +10,4 @@ Base de données : MariaDB / ORM Doctrine
 
 Ops & Outils : Docker, Git, Méthode Agile (Scrum)
 
-Consulter le dossier d'architecture technique : [Consulter le dossier d'architecturetechnique](./docs/smart-campus-portfolio-morgan-vanvelthem.pdf)
+Consulter le dossier d'architecture technique : [Consulter le dossier d'architecturetechnique](./docs/portfolio-sae4.pdf)
